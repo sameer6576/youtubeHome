@@ -21,7 +21,7 @@ import {
   Shirt,
   Podcast,
 } from "lucide-react";
-import React, { Children, ElementType, ReactNode, useState } from "react";
+import  { Children, ElementType, ReactNode, useState } from "react";
 import { Button, buttonStyles } from "../components/Button";
 import { twMerge } from "tailwind-merge";
 import { playlists, subscriptions } from "../data/sidebar";
